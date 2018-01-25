@@ -3,7 +3,7 @@
  */
 
 /**
- * @author usuario11
+ * @author mdiazf
  *
  */
 public class Prueba {
